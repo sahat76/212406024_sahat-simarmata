@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 393px;
+  height: 852px;
+  background: rgba(172,140,88,0.7400000095367432);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 288px;
+  height: 288px;
+  background: url("../images/v1_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 282px;
+  left: 52px;
+  border-top-left-radius: 142px;
+  border-top-right-radius: 142px;
+  border-bottom-left-radius: 142px;
+  border-bottom-right-radius: 142px;
+  overflow: hidden;
+}
